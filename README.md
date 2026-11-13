@@ -25,8 +25,3 @@ Me chamo **Ryan**. Estudo desenvolvimento web e de sistemas e aplico o que apren
 </p>
 
 [![Calendário animado de contribuições públicas](./assets/contribuicoes.svg)](https://github.com/rya3n#contribution-graph)
-
-### Projetos em destaque
-
-- 🎮 **[Donkey Kong Country para PC](https://github.com/rya3n/donkey-kong-country-pc)** · Port nativo para Windows baseado no DKC1Recomp, com localização em PT-BR e testes de campanha e salvamento. [Ver o piloto de tradução](https://github.com/rya3n/donkey-kong-country-pc/blob/main/docs/30-DIALOGOS-CRANKY-PT-BR.md)
-- 💧 **[AquaView Dashboard](https://github.com/rya3n/AquaView-Dashboard)** · Painel de vendas e estoque desenvolvido com Next.js, TypeScript e Firebase.
