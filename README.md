@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./assets/frieren.gif" width="112" height="112" alt="Frieren em pixel art piscando">
-  <br>
-  <img src="./assets/saudacao.svg" width="560" alt="Oi, tudo bem?">
+  <img src="./assets/saudacao.svg" width="256" align="middle" alt="Oi, tudo bem?">
+  <img src="./assets/frieren.gif" width="176" height="176" align="middle" alt="Frieren em pixel art piscando">
 </p>
 
 ---
