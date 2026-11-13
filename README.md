@@ -1,50 +1,31 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1662D9&height=120&section=header"/>
+<div align="center">
 
+# Olá, eu sou o Ryan 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3084E3&size=30&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+rya3n;Eu+estudo+desenvolvimento+web+e+desenvolvimento+de+sistemas;Sejam+Bem-vindos+ao+meu+perfil!+:%29)](https://git.io/typing-svg) 
+**Desenvolvimento web · Sistemas · Jogos retrô**
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rya3n&show_icons=true&count_private=true&hide_border=true&title_color=1662D9&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="rya3n github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericleonardoo&layout=compact&hide_border=true&title_color=1662D9&text_color=00bfbf&bg_color=0d1117" />
+Estudo desenvolvimento web e de sistemas e aplico o que aprendo em projetos de dashboard, port e tradução de jogos.
+
+[Instagram](https://www.instagram.com/ryan.kz18/) · [Repositórios](https://github.com/rya3n?tab=repositories)
+
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rya3n&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rya3n&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+## Projetos em destaque
 
-<div align="center">  
-<a href="[https://www.instagram.com/ryan.kz18/]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- 
-### Habilidades Principais:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
- 
-### Ferramentas:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Outros conhecimentos:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Canva](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
-![Firebase Studio](https://img.shields.io/badge/-firebase.studio-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
-  
-### Estudando nesse momento:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+### 🎮 [Donkey Kong Country para PC](https://github.com/rya3n/donkey-kong-country-pc)
 
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rya3n}/count.svg" /></p> 
-<br></div> -->
+Projeto de port nativo para Windows baseado no **DKC1Recomp**. Estou trabalhando na localização para português do Brasil e nos testes de campanha e de salvamento. O piloto em PT-BR já reúne 217 diálogos.
 
+[Ver o piloto de tradução](https://github.com/rya3n/donkey-kong-country-pc/blob/main/docs/30-DIALOGOS-CRANKY-PT-BR.md)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1662D9&height=120&section=footer"/>
+### 💧 [AquaView Dashboard](https://github.com/rya3n/AquaView-Dashboard)
+
+Painel de vendas e estoque com indicadores de faturamento, margem e produtos mais vendidos. Desenvolvido com Next.js, TypeScript e Firebase.
+
+## Tecnologias
+
+- **Web** · HTML, CSS, JavaScript e TypeScript
+- **Interfaces** · React e Next.js
+- **Dados e versionamento** · Firebase, Git e GitHub
