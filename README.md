@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="./assets/frieren.gif" width="112" height="112" alt="Frieren em pixel art piscando">
+  <br>
   <img src="./assets/saudacao.svg" width="560" alt="Oi, tudo bem?">
 </p>
 
