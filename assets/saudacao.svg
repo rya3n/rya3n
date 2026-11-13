@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="76" viewBox="0 0 560 76" role="img" aria-labelledby="title">
+  <title id="title">Oi, tudo bem?</title>
+  <style>
+    .greeting { fill: #dce6f7; }
+    .spark { fill: #e0aaff; }
+    .reveal { animation: type 6s steps(17, end) infinite; }
+    .cursor { fill: #e0aaff; animation: move 6s steps(17, end) infinite; }
+    .caret { animation: blink 0.8s step-end infinite; }
+    @keyframes type { 0% { width: 0; } 28%, 100% { width: 226px; } }
+    @keyframes move { 0% { transform: translateX(0); } 28%, 100% { transform: translateX(226px); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-color-scheme: light) {
+      .greeting { fill: #24223d; }
+      .spark, .cursor { fill: #7944a7; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .reveal, .cursor, .caret { animation: none; }
+      .cursor { display: none; }
+    }
+  </style>
+  <defs>
+    <clipPath id="typing-line">
+      <rect class="reveal" x="0" y="0" width="226" height="76"/>
+    </clipPath>
+  </defs>
+  <g transform="translate(167 0)">
+    <text class="greeting" x="0" y="47" font-family="ui-monospace, Consolas, monospace" font-size="24" font-weight="700" textLength="226" lengthAdjust="spacingAndGlyphs" clip-path="url(#typing-line)"><tspan class="spark">✦</tspan> Oi, tudo bem? <tspan class="spark">✦</tspan></text>
+    <g class="caret"><rect class="cursor" x="3" y="28" width="2" height="22" rx="1"/></g>
+  </g>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="704" height="115" viewBox="0 0 704 115" role="img" aria-labelledby="title description">
+  <title id="title">Calendário animado de contribuições de rya3n</title>
+  <desc id="description">Atividade pública registrada de 9 de novembro de 2025 a 12 de novembro de 2026.</desc>
+  <style>
+    .l0 { fill: #242936; }
+    .l1 { fill: #454271; }
+    .l2 { fill: #6f4fa6; }
+    .l3 { fill: #a672db; }
+    .l4 { fill: #e0aaff; }
+    .active { animation: glow 8s ease-in-out infinite; animation-delay: var(--delay); }
+    .runner { animation: scan 8s linear infinite; }
+    .caption { fill: #9da9bd; }
+    @keyframes glow { 0%, 10%, 100% { filter: none; } 4% { filter: brightness(1.55); } }
+    @keyframes scan {
+      0% { transform: translateX(0); opacity: 0; }
+      4%, 75% { opacity: 1; }
+      80%, 100% { transform: translateX(676px); opacity: 0; }
+    }
+    @media (prefers-color-scheme: light) {
+      .l0 { fill: #e9e7ef; }
+      .l1 { fill: #c8b5e8; }
+      .l2 { fill: #ab85dc; }
+      .l3 { fill: #8553bc; }
+      .l4 { fill: #643395; }
+      .caption { fill: #59636e; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .active { animation: none; }
+      .runner { display: none; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="sweep">
+      <stop stop-color="#be86f6" stop-opacity="0"/>
+      <stop offset="0.74" stop-color="#be86f6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#e0aaff" stop-opacity="0.54"/>
+    </linearGradient>
+    <pattern id="grid" x="6" y="5" width="13" height="13" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" rx="2" fill="white"/>
+    </pattern>
+    <mask id="cells" maskUnits="userSpaceOnUse" x="0" y="0" width="704" height="96">
+      <path d="M6 5H682V93H6ZM682 5H692V67H682Z" fill="url(#grid)"/>
+    </mask>
+  </defs>
+  <rect class="l0" width="704" height="96" mask="url(#cells)"/>
+  <rect class="l2 active" style="--delay:0.12s" x="19" y="70" width="10" height="10" rx="2"/>
+  <rect class="l1 active" style="--delay:0.72s" x="84" y="44" width="10" height="10" rx="2"/>
+  <rect class="l1 active" style="--delay:1.80s" x="201" y="57" width="10" height="10" rx="2"/>
+  <rect class="l1 active" style="--delay:2.88s" x="318" y="31" width="10" height="10" rx="2"/>
+  <rect class="l2 active" style="--delay:3.00s" x="331" y="44" width="10" height="10" rx="2"/>
+  <rect class="l2 active" style="--delay:5.28s" x="578" y="44" width="10" height="10" rx="2"/>
+  <rect class="l1 active" style="--delay:5.40s" x="591" y="31" width="10" height="10" rx="2"/>
+  <rect class="l4 active" style="--delay:5.40s" x="591" y="44" width="10" height="10" rx="2"/>
+  <rect class="l1 active" style="--delay:5.40s" x="591" y="57" width="10" height="10" rx="2"/>
+  <rect class="l1 active" style="--delay:5.40s" x="591" y="70" width="10" height="10" rx="2"/>
+  <rect class="l3 active" style="--delay:5.52s" x="604" y="57" width="10" height="10" rx="2"/>
+  <rect class="l1 active" style="--delay:5.76s" x="630" y="18" width="10" height="10" rx="2"/>
+  <rect class="l4 active" style="--delay:6.12s" x="669" y="44" width="10" height="10" rx="2"/>
+  <rect class="l3 active" style="--delay:6.12s" x="669" y="57" width="10" height="10" rx="2"/>
+  <rect class="l4 active" style="--delay:6.12s" x="669" y="70" width="10" height="10" rx="2"/>
+  <rect class="l4 active" style="--delay:6.12s" x="669" y="83" width="10" height="10" rx="2"/>
+  <rect class="l1 active" style="--delay:6.24s" x="682" y="31" width="10" height="10" rx="2"/>
+  <rect class="l2 active" style="--delay:6.24s" x="682" y="57" width="10" height="10" rx="2"/>
+  <g mask="url(#cells)">
+    <rect class="runner" x="-28" y="5" width="38" height="88" fill="url(#sweep)"/>
+  </g>
+  <text class="caption" x="6" y="110" font-family="system-ui, sans-serif" font-size="10">Atividade pública até 12/11/2026</text>
+</svg>
