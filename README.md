@@ -21,8 +21,8 @@ Me chamo **Ryan**. Estudo desenvolvimento web e de sistemas e aplico o que apren
 ### Estatísticas do GitHub
 
 <p>
-  <img width="59%" align="top" src="https://github-readme-stats-fast.vercel.app/api?username=rya3n&amp;show_icons=true&amp;theme=tokyonight&amp;locale=pt-br" alt="Estatísticas do GitHub de rya3n">
-  <img width="38%" align="top" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rya3n&amp;layout=compact&amp;theme=tokyonight&amp;locale=pt-br" alt="Linguagens mais usadas nos repositórios de rya3n">
+  <img width="59%" align="top" src="./assets/estatisticas.svg" alt="Estatísticas do GitHub de rya3n">
+  <img width="38%" align="top" src="./assets/linguagens.svg" alt="Linguagens mais usadas nos repositórios de rya3n">
 </p>
 
 [![Calendário animado de contribuições públicas](./assets/contribuicoes.svg)](https://github.com/rya3n#contribution-graph)

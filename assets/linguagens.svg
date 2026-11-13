@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200" role="img" aria-labelledby="title description">
+  <title id="title">Linguagens mais usadas</title>
+  <desc id="description">Participação por bytes entre as seis principais linguagens dos repositórios públicos: JavaScript 29,0%, TypeScript 26,9%, Python 15,3%, CSS 12,2%, HTML 11,2%, C 5,4%.</desc>
+  <style>
+    .card { fill: #1a1b26; stroke: #d5d7e0; }
+    .title { fill: #7aa2f7; font-weight: 700; }
+    .label { fill: #b9c7e5; }
+    .value { fill: #79e0d2; font-weight: 700; }
+    .date { fill: #99a5c6; }
+    .icon { stroke: #bb9af7; }
+    @media (prefers-color-scheme: light) {
+      .card { fill: #f7f7ff; stroke: #b5b7ca; }
+      .title { fill: #3558a6; }
+      .label { fill: #394263; }
+      .value { fill: #147163; }
+      .date { fill: #505a74; }
+      .icon { stroke: #7848aa; }
+    }
+  </style>
+  <rect class="card" x="0.5" y="0.5" width="299" height="199" rx="5"/>
+  <g font-family="system-ui, Segoe UI, sans-serif">
+    <text class="title" x="24" y="34" font-size="17">Linguagens mais usadas</text>
+    <defs><clipPath id="bar"><rect x="24" y="53" width="252" height="8" rx="4"/></clipPath></defs>
+    <g clip-path="url(#bar)">
+      <rect x="24.000" y="53" width="73.094" height="8" fill="#f1e05a"/>
+      <rect x="97.064" y="53" width="67.795" height="8" fill="#3178c6"/>
+      <rect x="164.829" y="53" width="38.522" height="8" fill="#3572a5"/>
+      <rect x="203.321" y="53" width="30.790" height="8" fill="#663399"/>
+      <rect x="234.081" y="53" width="28.245" height="8" fill="#e34c26"/>
+      <rect x="262.295" y="53" width="13.735" height="8" fill="#9da5b4"/>
+    </g>
+    <circle cx="29" cy="81" r="4.5" fill="#f1e05a"/>
+    <text class="label" x="39" y="85" font-size="11">JavaScript 29,0%</text>
+    <circle cx="164" cy="81" r="4.5" fill="#3178c6"/>
+    <text class="label" x="174" y="85" font-size="11">TypeScript 26,9%</text>
+    <circle cx="29" cy="105" r="4.5" fill="#3572a5"/>
+    <text class="label" x="39" y="109" font-size="11">Python 15,3%</text>
+    <circle cx="164" cy="105" r="4.5" fill="#663399"/>
+    <text class="label" x="174" y="109" font-size="11">CSS 12,2%</text>
+    <circle cx="29" cy="129" r="4.5" fill="#e34c26"/>
+    <text class="label" x="39" y="133" font-size="11">HTML 11,2%</text>
+    <circle cx="164" cy="129" r="4.5" fill="#9da5b4"/>
+    <text class="label" x="174" y="133" font-size="11">C 5,4%</text>
+    <text class="date" x="24" y="180" font-size="10">Dados públicos em 13/11/2026</text>
+  </g>
+</svg>
